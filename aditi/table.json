@@ -1,0 +1,19 @@
+{
+  "clear": "[function]",
+  "clone": "[function]",
+  "concat": "[function]",
+  "create": "[function]",
+  "find": "[function]",
+  "foreach": "[function]",
+  "foreachi": "[function]",
+  "freeze": "[function]",
+  "getn": "[function]",
+  "insert": "[function]",
+  "isfrozen": "[function]",
+  "maxn": "[function]",
+  "move": "[function]",
+  "pack": "[function]",
+  "remove": "[function]",
+  "sort": "[function]",
+  "unpack": "[function]"
+}

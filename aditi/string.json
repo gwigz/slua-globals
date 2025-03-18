@@ -1,0 +1,19 @@
+{
+  "byte": "[function]",
+  "char": "[function]",
+  "find": "[function]",
+  "format": "[function]",
+  "gmatch": "[function]",
+  "gsub": "[function]",
+  "len": "[function]",
+  "lower": "[function]",
+  "match": "[function]",
+  "pack": "[function]",
+  "packsize": "[function]",
+  "rep": "[function]",
+  "reverse": "[function]",
+  "split": "[function]",
+  "sub": "[function]",
+  "unpack": "[function]",
+  "upper": "[function]"
+}

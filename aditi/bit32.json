@@ -1,0 +1,17 @@
+{
+  "arshift": "[function]",
+  "band": "[function]",
+  "bnot": "[function]",
+  "bor": "[function]",
+  "btest": "[function]",
+  "bxor": "[function]",
+  "byteswap": "[function]",
+  "countlz": "[function]",
+  "countrz": "[function]",
+  "extract": "[function]",
+  "lrotate": "[function]",
+  "lshift": "[function]",
+  "replace": "[function]",
+  "rrotate": "[function]",
+  "rshift": "[function]"
+}

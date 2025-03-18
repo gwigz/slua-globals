@@ -1,0 +1,17 @@
+{
+  "abs": "[function]",
+  "angle": "[function]",
+  "ceil": "[function]",
+  "clamp": "[function]",
+  "create": "[function]",
+  "cross": "[function]",
+  "dot": "[function]",
+  "floor": "[function]",
+  "magnitude": "[function]",
+  "max": "[function]",
+  "min": "[function]",
+  "normalize": "[function]",
+  "one": "<1.00000, 1.00000, 1.00000>",
+  "sign": "[function]",
+  "zero": "<0.00000, 0.00000, 0.00000>"
+}
