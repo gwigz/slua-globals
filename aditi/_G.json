@@ -11,6 +11,8 @@
   "integer": "[function]",
   "ipairs": "[function]",
   "ll": "[table]",
+  "llbase64": "[table]",
+  "lljson": "[table]",
   "math": "[table]",
   "newproxy": "[function]",
   "next": "[function]",
