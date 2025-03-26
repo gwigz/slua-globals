@@ -1,0 +1,10 @@
+{
+  "_NAME": "lljson",
+  "_VERSION": "2.1.0.11",
+  "array_mt": "[table]",
+  "decode": "[function]",
+  "empty_array": "lljson_constant: 0x0000000000000005",
+  "empty_array_mt": "[table]",
+  "encode": "[function]",
+  "null": "lljson_constant: 0x0000000000000003"
+}
